@@ -165,7 +165,7 @@ body {
   display: block;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 768px) {
   .mob-menu-open-btn {
     display: block;
     background-color: yellowgreen;

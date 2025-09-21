@@ -79,11 +79,15 @@
 }
 
 
-@media (max-width: 480px) {
+@media (min-width: 480px) {
   .mob-menu-open-btn {
     display: block;
+    background-color: yellowgreen;
+
+
   }
 }
+
 
 .mob-menu-nav-list {
     display: flex;
